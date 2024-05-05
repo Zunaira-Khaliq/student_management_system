@@ -1,0 +1,19 @@
+{
+  "name": "zydo2_student_management_system",
+  "version": "1.0.0",
+  "description": "A simple management system by using inquirer,node.js and typescript",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zunaira Khaliq",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
